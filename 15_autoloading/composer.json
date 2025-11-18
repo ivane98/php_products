@@ -1,0 +1,17 @@
+{
+    "name": "naira/15_autoloading",
+    "autoload": {
+        "psr-4": {
+            "app\\": "./app"
+        }
+    },
+    "authors": [
+        {
+            "name": "ivane98",
+            "email": "i.vardoshvili22@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.10"
+    }
+}
